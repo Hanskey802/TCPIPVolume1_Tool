@@ -3,7 +3,7 @@ It is a wonderful Tool. Very useful for TCP experiment. How to use according to 
 
 Once, I used this tool to test in Netfilter_TCPIPChecksum
 
-Installation:  unzip sock-0.3.2.tar.gz   && ./configure && make && make install
+Installation:  tar -xzvf sock-0.3.2.tar.gz   && ./configure && make && make install
 
 Server: sock -s <port> e.g. sock -s 30000
 
