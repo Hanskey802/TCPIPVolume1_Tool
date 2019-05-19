@@ -12,5 +12,5 @@ Client: sock <ServerIP> 30000
 More options please sock --help
 
 NOTE:
-Checked in VM in Virtualbox. The checksum of TCP and IP are correctly.
+Checked in VM in Virtualbox. The checksum of TCP and IP are correct.
 Sometimes, maybe you need to shutdown tso, gso, gro.
